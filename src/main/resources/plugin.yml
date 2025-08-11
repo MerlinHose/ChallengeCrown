@@ -1,0 +1,8 @@
+name: ChallengeCrown
+version: '1.0-S'
+main: de.mmerlins.challengeCrown.ChallengeCrown
+api-version: '1.21'
+prefix: MM
+authors: [ MerlinHose ]
+description: Description
+website: https://github.com/MerlinHose/ChallengeCrown
